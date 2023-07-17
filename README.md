@@ -1,7 +1,9 @@
 
 <h1 align="center">Hi 👋, I'm Bharat Patel</h1>
 <img align="top" alt="Coding" width="250" height="250" src="https://github.com/Bharatpatel04/Bharatpatel04/blob/main/passport%20photo%20bharat.jpg" >
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">I am passionate about learning new things . Innovative and confident and task driven . Willingness to
+learn and adapt to new technologies . I have a keen interest in cloud computing and its applications in
+web development.</h3>
 
 - 🌱 I’m currently learning **React, Cloud Computing(Azure)**
 
