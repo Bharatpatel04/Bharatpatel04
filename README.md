@@ -1,3 +1,4 @@
+
 <h1 align="center">Hi 👋, I'm Bharat Patel</h1>
 <img align="top" alt="Coding" width="250" height="250" src="https://github.com/Bharatpatel04/Bharatpatel04/blob/main/passport%20photo%20bharat.jpg" >
 <h3 align="center">A passionate frontend developer from India</h3>
